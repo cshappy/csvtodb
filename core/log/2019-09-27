@@ -1,0 +1,142 @@
+time: 2019-09-27 09:09:54.218	event: server is start
+time: 2019-09-27 09:10:42.955	event: server is start
+time: 2019-09-27 09:12:45.409	remote: [::1]:63503	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02	event: visit
+time: 2019-09-27 09:13:47.104	remote: [::1]:63503	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestampstart=1569489920&timestampend=1569490156	event: visit
+time: 2019-09-27 09:14:17.123	remote: [::1]:63503	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestampstart=1569489920	event: visit
+time: 2019-09-27 09:14:24.626	remote: [::1]:63503	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestampstart=1569489920&timestampend=1569490156	event: visit
+time: 2019-09-27 10:26:16.999	event: server is start
+time: 2019-09-27 10:26:24.492	remote: [::1]:65382	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02	event: visit
+time: 2019-09-27 10:26:41.762	remote: [::1]:65382	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestampstart=1569489920	event: visit
+time: 2019-09-27 10:26:51.269	remote: [::1]:65382	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestampstart=1569489920&timestampend=1569490156	event: visit
+time: 2019-09-27 10:50:00.524	event: server is start
+time: 2019-09-27 10:50:03.258	remote: [::1]:49378	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/26/2019%2011:09:18.431&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 10:58:41.087	event: server is start
+time: 2019-09-27 10:59:20.060	remote: [::1]:49579	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552675&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:01:24.717	remote: [::1]:49600	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=%221569552675%22&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:02:33.286	event: server is start
+time: 2019-09-27 11:02:35.827	remote: [::1]:49614	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=%221569552675%22&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:02:39.976	remote: [::1]:49614	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552675&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:03:16.360	event: server is start
+time: 2019-09-27 11:03:17.651	remote: [::1]:49624	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552675&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:03:50.614	remote: [::1]:49624	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/26/2019%2011:09:18.431&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:03:50.626	remote: [::1]:49624	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/26/2019%2011:09:18.431&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:05:43.628	event: server is start
+time: 2019-09-27 11:05:45.095	remote: [::1]:49694	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/26/2019%2011:09:18.431&timestart=&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:09:30.174	event: server is start
+time: 2019-09-27 11:09:41.297	remote: [::1]:49765	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:09:41.310	remote: [::1]:49765	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:10:06.525	remote: [::1]:49765	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552105&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:13:29.396	event: server is start
+time: 2019-09-27 11:13:35.671	remote: [::1]:49791	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552105&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:13:43.312	remote: [::1]:49791	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:13:54.279	remote: [::1]:49791	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552105&timestart=&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:14:06.278	remote: [::1]:49791	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552105&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:22:32.665	remote: [::1]:49848	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/26/2019%2011:09:18.431&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:22:42.288	remote: [::1]:49848	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/26/2019%2011:09:18.431aaaaaaa&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:39:24.988	event: server is start
+time: 2019-09-27 11:39:34.073	remote: [::1]:49958	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/26/2019%2011:09:18.431&timestart=09/26/2019%2009:33:18.431&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:39:50.049	remote: [::1]:49958	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552275&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:40:22.445	event: server is start
+time: 2019-09-27 11:40:24.628	remote: [::1]:49973	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552275&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 11:40:59.261	event: server is start
+time: 2019-09-27 11:41:01.581	remote: [::1]:49992	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569552275&timestart=1569552675&ip=10.1.1.30	event: visit
+time: 2019-09-27 12:47:28.109	event: server is start
+time: 2019-09-27 12:47:58.967	remote: [::1]:51321	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 12:48:16.764	remote: [::1]:51321	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557226975&timestart=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 12:48:38.207	remote: [::1]:51321	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 13:16:59.924	event: server is start
+time: 2019-09-27 13:17:26.872	event: server is start
+time: 2019-09-27 13:20:03.182	event: server is start
+time: 2019-09-27 13:20:07.696	remote: [::1]:51630	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 13:22:24.165	event: server is start
+time: 2019-09-27 13:22:49.943	event: server is start
+time: 2019-09-27 13:22:54.077	remote: [::1]:51656	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 13:23:25.135	event: server is start
+time: 2019-09-27 13:23:27.734	remote: [::1]:51663	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 13:24:08.686	event: server is start
+time: 2019-09-27 13:24:48.339	event: server is start
+time: 2019-09-27 13:25:03.094	event: server is start
+time: 2019-09-27 13:25:08.621	remote: [::1]:51676	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 13:34:19.834	event: server is start
+time: 2019-09-27 13:34:26.111	remote: [::1]:51776	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:04:01.122	event: server is start
+time: 2019-09-27 14:04:27.060	remote: [::1]:52151	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/27/2019%2012:26:26&timestart=09/27/2019%2012:06:06&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:04:27.070	remote: [::1]:52151	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/27/2019%2012:26:26&timestart=09/27/2019%2012:06:06&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:09:35.261	event: server is start
+time: 2019-09-27 14:09:40.724	remote: [::1]:52212	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/27/2019%2012:26:26&timestart=09/27/2019%2012:06:06&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:09:40.738	remote: [::1]:52212	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/27/2019%2012:26:26&timestart=09/27/2019%2012:06:06&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:10:38.037	remote: [::1]:52212	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/27/2019%2012:26:26&timestart=&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:13:07.904	event: server is start
+time: 2019-09-27 14:13:10.717	remote: [::1]:52234	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/27/2019%2012:26:26&timestart=&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:13:36.488	event: server is start
+time: 2019-09-27 14:13:44.140	remote: [::1]:52242	interface: /api/history/gethistorian?timeend=09/27/2019%2012:26:26&timestart=&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:16:13.809	event: server is start
+time: 2019-09-27 14:16:21.145	remote: [::1]:52259	interface: /api/history/gethistorian?timeend=09/27/2019%2012:26:26&timestart=09/27/2019%2012:06:06&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:16:26.433	remote: [::1]:52259	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/27/2019%2012:26:26&timestart=09/27/2019%2012:06:06&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:16:38.710	remote: [::1]:52259	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestart=09/27/2019%2012:06:06&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:16:42.558	remote: [::1]:52259	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=09/27/2019%2012:26:26&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:21:18.899	event: server is start
+time: 2019-09-27 14:21:23.084	remote: [::1]:52299	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:22:14.500	remote: [::1]:52299	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:22:14.511	remote: [::1]:52299	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:22:21.076	remote: [::1]:52299	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:22:21.085	remote: [::1]:52299	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:23:23.596	event: server is start
+time: 2019-09-27 14:23:26.806	remote: [::1]:52311	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:24:09.180	remote: [::1]:52311	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=9/25/2019%2016:05:01.111&timestart=9/25/2019%2014:05:01.111&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:24:13.383	remote: [::1]:52311	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=9/25/2019%2016:05:01.111&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:24:17.809	remote: [::1]:52311	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestart=9/25/2019%2014:05:01.111&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:24:49.929	event: server is start
+time: 2019-09-27 14:25:02.810	remote: [::1]:52324	interface: /api/history/gethistorian?timeend=9/25/2019%2016:05:01.111&timestart=9/25/2019%2014:05:01.111&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:26:18.820	event: server is start
+time: 2019-09-27 14:26:42.997	remote: [::1]:52340	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:26:49.829	remote: [::1]:52340	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:26:49.837	remote: [::1]:52340	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:26:53.853	remote: [::1]:52340	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:30:13.139	event: server is start
+time: 2019-09-27 14:30:17.318	remote: [::1]:52382	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:30:20.568	remote: [::1]:52382	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:30:20.578	remote: [::1]:52382	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:30:24.965	remote: [::1]:52382	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:31:31.338	event: server is start
+time: 2019-09-27 14:31:35.927	remote: [::1]:52401	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:31:38.050	remote: [::1]:52401	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:31:43.100	remote: [::1]:52401	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 14:31:43.113	remote: [::1]:52401	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:01:46.081	event: server is start
+time: 2019-09-27 15:01:52.333	remote: [::1]:52663	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:02:38.830	event: server is start
+time: 2019-09-27 15:02:42.545	remote: [::1]:52670	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:03:25.933	remote: [::1]:52670	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=2019-9-25T16:05:01.111Z&timestart=2019-9-25T14:05:01.111Z&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:04:02.916	remote: [::1]:52670	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=9/25/2019%2016:05:01.111&timestart=9/25/2019%2014:05:01.111&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:06:21.564	event: server is start
+time: 2019-09-27 15:06:25.089	remote: [::1]:52714	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=9/25/2019%2016:05:01.111&timestart=9/25/2019%2014:05:01.111&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:09:26.763	event: server is start
+time: 2019-09-27 15:09:30.473	remote: [::1]:52736	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=9/25/2019%2016:05:01.111&timestart=9/25/2019%2014:05:01.111&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:09:58.515	event: server is start
+time: 2019-09-27 15:10:01.441	remote: [::1]:52767	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=9/25/2019%2016:05:01.111&timestart=9/25/2019%2014:05:01.111&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:10:11.542	remote: [::1]:52767	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:11:29.412	event: server is start
+time: 2019-09-27 15:11:34.887	remote: [::1]:52780	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:27:08.514	event: server is start
+time: 2019-09-27 15:28:32.083	event: server is start
+time: 2019-09-27 15:28:39.841	remote: [::1]:53019	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:28:39.853	remote: [::1]:53019	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:30:59.874	event: server is start
+time: 2019-09-27 15:32:23.722	event: server is start
+time: 2019-09-27 15:32:29.680	remote: [::1]:53045	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:32:29.691	remote: [::1]:53045	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:36:03.531	event: server is start
+time: 2019-09-27 15:36:10.196	remote: [::1]:53082	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:36:17.812	remote: [::1]:53082	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:40:42.929	event: server is start
+time: 2019-09-27 15:40:53.512	remote: [::1]:53147	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:44:36.961	event: server is start
+time: 2019-09-27 15:44:41.374	remote: [::1]:53179	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:44:47.363	remote: [::1]:53179	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&ip=10.1.1.30	event: visit
+time: 2019-09-27 15:44:51.951	remote: [::1]:53179	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&ip=10.1.1.30	event: visit
+time: 2019-09-27 17:59:03.004	event: server is start
+time: 2019-09-27 17:59:07.635	remote: [::1]:55316	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&ip=10.1.1.30	event: visit
+time: 2019-09-27 17:59:10.798	remote: [::1]:55316	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&ip=10.1.1.30	event: visit
+time: 2019-09-27 17:59:13.144	remote: [::1]:55316	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timeend=1569557126975&timestart=1569557226975&ip=10.1.1.30	event: visit
+time: 2019-09-27 17:59:15.134	remote: [::1]:55316	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1,DC.C1.D1.tag03,DC.C1.D1.Tag02&timestart=1569557226975&ip=10.1.1.30	event: visit

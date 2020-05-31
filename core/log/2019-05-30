@@ -1,0 +1,8 @@
+time: 2019-05-30 10:03:42.569	event: server is start
+time: 2019-05-30 10:04:10.527	remote: [::1]:58099	interface: /tagPoint/queryvalue	event: visit
+time: 2019-05-30 10:58:30.004	remote: [::1]:60016	interface: /tagPoint/queryvalue	event: visit
+time: 2019-05-30 14:09:43.636	remote: [::1]:52638	interface: /tagPoint/queryvalue	event: visit
+time: 2019-05-30 14:09:52.372	remote: [::1]:52638	interface: /tagPoint/create	event: visit
+time: 2019-05-30 14:10:04.813	remote: [::1]:52638	interface: /tagPoint/create	event: visit
+time: 2019-05-30 14:10:32.999	remote: [::1]:52638	interface: /tagPoint/create	event: visit
+time: 2019-05-30 14:11:23.829	remote: [::1]:52638	interface: /tagPoint/queryvalue	event: visit

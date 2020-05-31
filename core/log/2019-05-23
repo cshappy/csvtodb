@@ -1,0 +1,28 @@
+time: 2019-05-23 14:36:23.278	event: server is start
+time: 2019-05-23 14:39:36.984	remote: 127.0.0.1:57570	interface: /file/upload	event: visit
+time: 2019-05-23 14:42:10.039	event: server is start
+time: 2019-05-23 14:42:27.550	remote: 127.0.0.1:57576	interface: /file/upload	event: visit
+time: 2019-05-23 15:17:42.194	event: server is start
+time: 2019-05-23 15:17:52.336	remote: 127.0.0.1:58201	interface: /file/upload	event: visit
+time: 2019-05-23 15:19:51.015	event: server is start
+time: 2019-05-23 15:20:08.023	remote: 127.0.0.1:58210	interface: /file/upload	event: visit
+time: 2019-05-23 15:23:10.254	remote: 127.0.0.1:58228	interface: /file/upload	event: visit
+time: 2019-05-23 15:23:52.313	remote: 127.0.0.1:58228	interface: /file/upload	event: visit
+time: 2019-05-23 15:32:07.867	event: server is start
+time: 2019-05-23 15:32:20.681	remote: 127.0.0.1:58325	interface: /file/upload	event: visit
+time: 2019-05-23 15:33:21.906	event: server is start
+time: 2019-05-23 15:33:30.570	remote: 127.0.0.1:58333	interface: /file/upload	event: visit
+time: 2019-05-23 15:37:05.237	remote: 127.0.0.1:58356	interface: /file/upload	event: visit
+time: 2019-05-23 15:42:31.406	event: server is start
+time: 2019-05-23 15:42:48.659	remote: 127.0.0.1:58382	interface: /file/upload	event: visit
+time: 2019-05-23 15:45:08.869	event: server is start
+time: 2019-05-23 15:45:18.787	remote: 127.0.0.1:58399	interface: /file/upload	event: visit
+time: 2019-05-23 15:48:15.044	event: server is start
+time: 2019-05-23 15:48:19.784	remote: 127.0.0.1:58506	interface: /file/upload	event: visit
+time: 2019-05-23 15:48:44.773	remote: 127.0.0.1:58506	interface: /file/upload	event: visit
+time: 2019-05-23 15:49:43.539	event: server is start
+time: 2019-05-23 15:49:47.599	remote: 127.0.0.1:58514	interface: /file/upload	event: visit
+time: 2019-05-23 15:50:51.381	event: server is start
+time: 2019-05-23 15:51:05.432	remote: 127.0.0.1:58531	interface: /file/upload	event: visit
+time: 2019-05-23 15:58:30.264	event: server is start
+time: 2019-05-23 16:23:53.142	remote: 127.0.0.1:58704	interface: /dataSource/create	event: visit

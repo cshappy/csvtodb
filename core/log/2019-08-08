@@ -1,0 +1,9 @@
+time: 2019-08-08 15:22:11.578	event: server is start
+time: 2019-08-08 15:23:54.200	remote: 127.0.0.1:57647	interface: /api/stock/selectprice	event: visit
+time: 2019-08-08 15:23:54.205	remote: 127.0.0.1:57647	interface: /api/stock/selectprice	event: visit
+time: 2019-08-08 15:24:07.101	remote: 127.0.0.1:57647	interface: /api/stock/selectprice	event: visit
+time: 2019-08-08 15:24:07.107	remote: 127.0.0.1:57647	interface: /api/stock/selectprice	event: visit
+time: 2019-08-08 15:25:14.127	remote: 127.0.0.1:57651	interface: /api/stock/selectprice	event: visit
+time: 2019-08-08 15:25:41.382	remote: 127.0.0.1:57651	interface: /api/stock/selectprice	event: visit
+time: 2019-08-08 15:25:41.656	remote: 127.0.0.1:57651	interface: /api/stock/selectprice	event: visit
+time: 2019-08-08 15:32:09.960	remote: 127.0.0.1:57704	interface: /api/stock/selectprice	event: visit

@@ -1,0 +1,138 @@
+time: 2019-05-27 09:21:45.531	event: server is start
+time: 2019-05-27 13:24:24.213	event: server is start
+time: 2019-05-27 13:36:07.633	event: server is start
+time: 2019-05-27 13:37:53.032	remote: [::1]:57542	interface: /	event: visit
+time: 2019-05-27 13:37:53.127	remote: [::1]:57542	interface: /favicon.ico	event: visit
+time: 2019-05-27 13:37:55.118	remote: [::1]:57542	interface: /login.html	event: visit
+time: 2019-05-27 13:37:56.325	remote: [::1]:57542	interface: /user/getverifycode	event: visit
+time: 2019-05-27 13:38:13.091	remote: [::1]:57542	interface: /user/login	event: visit
+time: 2019-05-27 13:38:15.546	remote: [::1]:57542	interface: /user/login	event: visit
+time: 2019-05-27 13:38:41.491	remote: [::1]:57542	interface: //dataSource/list	event: visit
+time: 2019-05-27 13:38:46.053	remote: [::1]:57542	interface: /dataSource/list	event: visit
+time: 2019-05-27 13:39:19.670	remote: [::1]:57542	interface: /role/list	event: visit
+time: 2019-05-27 13:41:41.124	remote: [::1]:58758	interface: /role/list	event: visit
+time: 2019-05-27 13:41:41.134	remote: [::1]:58758	interface: /role/list	event: visit
+time: 2019-05-27 13:43:32.486	remote: [::1]:59374	interface: /role/list	event: visit
+time: 2019-05-27 13:43:32.492	remote: [::1]:59374	interface: /role/list	event: visit
+time: 2019-05-27 13:44:55.132	remote: [::1]:59790	interface: /role/update	event: visit
+time: 2019-05-27 13:45:57.682	remote: [::1]:60142	interface: /role/create	event: visit
+time: 2019-05-27 13:46:13.247	remote: [::1]:60142	interface: /role/create	event: visit
+time: 2019-05-27 13:50:48.071	event: server is start
+time: 2019-05-27 13:50:52.244	remote: [::1]:61722	interface: /role/create	event: visit
+time: 2019-05-27 13:55:43.580	remote: [::1]:63326	interface: /role/list	event: visit
+time: 2019-05-27 13:57:24.434	event: server is start
+time: 2019-05-27 13:57:27.410	remote: [::1]:63907	interface: /role/list	event: visit
+time: 2019-05-27 13:57:46.812	remote: [::1]:63907	interface: /role/create	event: visit
+time: 2019-05-27 13:59:49.534	remote: [::1]:64650	interface: /role/list	event: visit
+time: 2019-05-27 13:59:49.545	remote: [::1]:64650	interface: /role/list	event: visit
+time: 2019-05-27 13:59:53.921	remote: [::1]:64650	interface: /role/list	event: visit
+time: 2019-05-27 14:00:01.771	remote: [::1]:64650	interface: /role/list	event: visit
+time: 2019-05-27 14:00:53.074	remote: [::1]:64650	interface: /dataSource/list	event: visit
+time: 2019-05-27 14:00:57.454	remote: [::1]:64650	interface: /dataSource/list	event: visit
+time: 2019-05-27 14:00:57.460	remote: [::1]:64650	interface: /dataSource/list	event: visit
+time: 2019-05-27 14:01:01.247	remote: [::1]:64650	interface: /dataSource/list	event: visit
+time: 2019-05-27 14:02:01.725	remote: [::1]:65363	interface: /dataSource/list	event: visit
+time: 2019-05-27 14:02:31.944	remote: [::1]:65363	interface: /dataSource/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:02:50.958	remote: [::1]:65363	interface: /role/list	event: visit
+time: 2019-05-27 14:03:13.721	remote: [::1]:65363	interface: /role/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:04:28.776	remote: [::1]:49785	interface: /role/create?name=admin&des=%E6%8F%8F%E8%BF%B0	event: visit
+time: 2019-05-27 14:06:07.197	remote: [::1]:50403	interface: /tagPoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:06:20.017	remote: [::1]:50403	interface: /tagpoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:07:40.162	remote: [::1]:50935	interface: /tagpoint/update?id=2&address=%E5%9C%B0%E5%9D%80&des=%E6%9C%BA%E5%AD%90%E7%83%AD&name=SQL%20Served2019&type=1	event: visit
+time: 2019-05-27 14:08:01.076	remote: [::1]:50935	interface: /tagpoint/create?id=2&address=%E5%9C%B0%E5%9D%80&des=%E6%9C%BA%E5%AD%90%E7%83%AD&name=SQL%20Served2019&type=1	event: visit
+time: 2019-05-27 14:08:11.351	remote: [::1]:50935	interface: /tagpoint/create?id=2&address=%E5%9C%B0%E5%9D%80&des=%E6%9C%BA%E5%AD%90%E7%83%AD&name=SQL%20Served2019&type=1	event: visit
+time: 2019-05-27 14:08:56.322	remote: [::1]:50935	interface: /dataSource/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:11:21.402	remote: [::1]:52088	interface: /role/update?name=admin&des=des	event: visit
+time: 2019-05-27 14:11:48.411	remote: [::1]:52088	interface: /role/create?name=admin&des=des	event: visit
+time: 2019-05-27 14:12:42.326	remote: [::1]:52088	interface: /role/create	event: visit
+time: 2019-05-27 14:13:04.332	remote: [::1]:52088	interface: /role/create	event: visit
+time: 2019-05-27 14:13:43.282	remote: [::1]:52088	interface: /role/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:14:21.096	remote: [::1]:52088	interface: /role/update	event: visit
+time: 2019-05-27 14:14:38.111	remote: [::1]:52088	interface: /role/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:14:49.956	remote: [::1]:52088	interface: /role/delete	event: visit
+time: 2019-05-27 14:14:57.026	remote: [::1]:52088	interface: /role/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:15:52.971	remote: [::1]:52088	interface: /tagpoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:17:15.656	remote: [::1]:53992	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:17:39.021	remote: [::1]:53992	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:21:05.169	remote: [::1]:55213	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:22:48.784	remote: [::1]:55802	interface: /tagpoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:23:47.270	remote: [::1]:55802	interface: /tagpoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:24:01.053	remote: [::1]:55802	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:24:53.023	event: server is start
+time: 2019-05-27 14:24:56.189	remote: [::1]:56437	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:25:23.373	event: server is start
+time: 2019-05-27 14:26:11.382	remote: [::1]:56886	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:28:06.255	event: server is start
+time: 2019-05-27 14:30:29.919	event: server is start
+time: 2019-05-27 14:30:32.678	remote: [::1]:58308	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:32:37.813	event: server is start
+time: 2019-05-27 14:32:43.646	remote: [::1]:59002	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:33:09.423	event: server is start
+time: 2019-05-27 14:33:13.203	remote: [::1]:59178	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:35:10.688	event: server is start
+time: 2019-05-27 14:35:16.191	remote: [::1]:59842	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:40:40.273	event: server is start
+time: 2019-05-27 14:41:02.220	remote: [::1]:61698	interface: /tagpoint/create	event: visit
+time: 2019-05-27 14:42:41.524	remote: [::1]:62260	interface: /tagpoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:42:58.111	remote: [::1]:62260	interface: /tagpoint/update	event: visit
+time: 2019-05-27 14:43:12.293	remote: [::1]:62260	interface: /tagpoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 14:43:30.632	remote: [::1]:62260	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 14:43:51.620	remote: [::1]:62260	interface: /tagpoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 15:03:30.736	event: server is start
+time: 2019-05-27 15:03:38.679	remote: [::1]:52694	interface: /tagpoint/create	event: visit
+time: 2019-05-27 15:20:22.086	event: server is start
+time: 2019-05-27 15:20:33.026	remote: [::1]:58249	interface: /tagpoint/list?page=1&limit=1	event: visit
+time: 2019-05-27 15:20:47.598	remote: [::1]:58249	interface: /tagpoint/create	event: visit
+time: 2019-05-27 15:21:54.030	event: server is start
+time: 2019-05-27 15:22:01.640	remote: [::1]:58821	interface: /tagpoint/	event: visit
+time: 2019-05-27 15:22:09.469	remote: [::1]:58821	interface: /tagpoint/create	event: visit
+time: 2019-05-27 15:22:56.129	remote: [::1]:58821	interface: /tagpoint/queryvalue	event: visit
+time: 2019-05-27 15:37:22.071	event: server is start
+time: 2019-05-27 15:48:01.446	event: server is start
+time: 2019-05-27 15:48:18.976	remote: [::1]:51062	interface: /tagpoint/create	event: visit
+time: 2019-05-27 15:48:34.877	remote: [::1]:51062	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 15:48:37.162	remote: [::1]:51062	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:07:31.997	event: server is start
+time: 2019-05-27 16:11:54.103	event: server is start
+time: 2019-05-27 16:11:57.858	remote: [::1]:59219	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:13:32.997	event: server is start
+time: 2019-05-27 16:13:35.539	remote: [::1]:59788	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:14:34.946	event: server is start
+time: 2019-05-27 16:14:37.219	remote: [::1]:60102	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:15:47.097	event: server is start
+time: 2019-05-27 16:15:50.511	remote: [::1]:60531	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:17:47.873	event: server is start
+time: 2019-05-27 16:17:50.492	remote: [::1]:61113	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:18:15.823	event: server is start
+time: 2019-05-27 16:18:18.540	remote: [::1]:61306	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:22:44.804	event: server is start
+time: 2019-05-27 16:22:49.802	remote: [::1]:62813	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:24:34.929	event: server is start
+time: 2019-05-27 16:24:38.602	remote: [::1]:63437	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:26:45.954	event: server is start
+time: 2019-05-27 16:26:59.126	remote: [::1]:64172	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:27:05.960	remote: [::1]:64172	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:27:14.386	remote: [::1]:64172	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:28:09.343	remote: [::1]:64172	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:28:59.192	event: server is start
+time: 2019-05-27 16:29:27.895	remote: [::1]:64946	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:29:48.968	remote: [::1]:64946	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:32:52.084	remote: [::1]:49674	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:32:56.593	remote: [::1]:49674	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:34:10.961	event: server is start
+time: 2019-05-27 16:34:20.064	remote: [::1]:50180	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:34:23.782	remote: [::1]:50180	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:34:29.261	remote: [::1]:50180	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:35:20.088	remote: [::1]:50180	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:36:29.518	remote: [::1]:50917	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:36:50.552	remote: [::1]:50917	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:36:54.091	remote: [::1]:50917	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:37:35.070	remote: [::1]:50917	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:41:58.865	event: server is start
+time: 2019-05-27 16:42:18.002	remote: [::1]:52774	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:42:22.870	remote: [::1]:52774	interface: /tagpoint/create	event: visit
+time: 2019-05-27 16:43:04.156	remote: [::1]:52774	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:43:04.166	remote: [::1]:52774	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 16:43:11.397	remote: [::1]:52774	interface: /tagpoint/delete	event: visit
+time: 2019-05-27 17:12:38.472	event: server is start
+time: 2019-05-27 17:13:00.629	remote: [::1]:62660	interface: /tagpoint/list?page=1&limit=10	event: visit

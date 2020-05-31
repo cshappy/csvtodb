@@ -1,0 +1,16 @@
+#加载数据库配置
+[database]
+    [[database.sqlite]]
+        type = "sqlite"
+        linkinfo = "db/data.db"
+    [[database.mysql]]
+        host = "127.0.0.1"
+        port = "3306"
+        user = "root"
+        pass = "1254029300"
+        name = "campus"
+        type = "mysql"
+    [[database.postgre]]
+        linkinfo = "host=localhost port=5432 user=postgres password=admin dbname=test sslmode=disable"
+        type = "pgsql"
+

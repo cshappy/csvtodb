@@ -1,0 +1,441 @@
+time: 2019-06-05 09:02:51.624	event: server is start
+time: 2019-06-05 09:04:16.256	remote: [::1]:2919	interface: /event/create	event: visit
+time: 2019-06-05 09:06:33.860	remote: [::1]:3650	interface: /status/create	event: visit
+time: 2019-06-05 09:08:02.763	event: server is start
+time: 2019-06-05 09:08:24.667	remote: [::1]:4302	interface: /event/create	event: visit
+time: 2019-06-05 09:08:51.629	event: server is start
+time: 2019-06-05 09:08:56.753	remote: [::1]:4480	interface: /event/create	event: visit
+time: 2019-06-05 09:10:50.632	event: server is start
+time: 2019-06-05 09:10:55.232	remote: [::1]:5220	interface: /event/create	event: visit
+time: 2019-06-05 09:27:10.894	event: server is start
+time: 2019-06-05 09:27:32.778	event: server is start
+time: 2019-06-05 09:27:47.012	event: server is start
+time: 2019-06-05 09:27:52.983	remote: [::1]:10791	interface: /event/create	event: visit
+time: 2019-06-05 09:28:34.261	remote: [::1]:10791	interface: /event/list?limit=1&page=1	event: visit
+time: 2019-06-05 09:29:01.851	remote: [::1]:10791	interface: /status/create	event: visit
+time: 2019-06-05 09:29:14.628	remote: [::1]:10791	interface: /status/create	event: visit
+time: 2019-06-05 09:30:23.698	event: server is start
+time: 2019-06-05 09:30:29.506	remote: [::1]:11626	interface: /status/create	event: visit
+time: 2019-06-05 09:30:45.791	remote: [::1]:11626	interface: /status/list?limit=1&page=1	event: visit
+time: 2019-06-05 09:33:06.608	remote: [::1]:12527	interface: /stock/create	event: visit
+time: 2019-06-05 09:34:01.855	event: server is start
+time: 2019-06-05 09:34:06.955	remote: [::1]:12867	interface: /stock/create	event: visit
+time: 2019-06-05 09:34:28.192	remote: [::1]:12867	interface: /stock/list?limit=1&page=1	event: visit
+time: 2019-06-05 09:39:09.655	event: server is start
+time: 2019-06-05 09:39:33.745	remote: [::1]:14708	interface: /stock/selectone	event: visit
+time: 2019-06-05 11:00:38.387	event: server is start
+time: 2019-06-05 11:02:22.983	remote: [::1]:14322	interface: /stock/create	event: visit
+time: 2019-06-05 11:02:28.593	remote: [::1]:14322	interface: /stock/list?page=1&limit=1	event: visit
+time: 2019-06-05 11:05:06.436	event: server is start
+time: 2019-06-05 11:05:28.437	remote: [::1]:1493	interface: /stock/selectsn	event: visit
+time: 2019-06-05 11:07:20.712	remote: [::1]:2069	interface: /stock/selectid	event: visit
+time: 2019-06-05 11:10:23.228	event: server is start
+time: 2019-06-05 11:10:26.338	remote: [::1]:3120	interface: /stock/update	event: visit
+time: 2019-06-05 11:10:33.368	remote: [::1]:3120	interface: /stock/update	event: visit
+time: 2019-06-05 11:11:22.960	remote: [::1]:3120	interface: /enduser/create	event: visit
+time: 2019-06-05 11:11:43.925	remote: [::1]:3120	interface: /enduser/create	event: visit
+time: 2019-06-05 11:12:32.412	remote: [::1]:3120	interface: /enduser/create	event: visit
+time: 2019-06-05 11:13:02.225	remote: [::1]:3120	interface: /enduser/update	event: visit
+time: 2019-06-05 11:14:01.750	event: server is start
+time: 2019-06-05 11:14:04.243	remote: [::1]:4256	interface: /enduser/update	event: visit
+time: 2019-06-05 11:14:30.928	remote: [::1]:4256	interface: /enduser/list?page=1&limit=1	event: visit
+time: 2019-06-05 11:14:56.953	remote: [::1]:4256	interface: /enduser/selectone	event: visit
+time: 2019-06-05 11:15:26.752	remote: [::1]:4256	interface: /event/create	event: visit
+time: 2019-06-05 11:15:39.115	remote: [::1]:4256	interface: /event/create	event: visit
+time: 2019-06-05 11:17:23.502	event: server is start
+time: 2019-06-05 11:17:37.805	remote: [::1]:5479	interface: /event/selectone	event: visit
+time: 2019-06-05 11:32:48.504	event: server is start
+time: 2019-06-05 12:09:24.840	event: server is start
+time: 2019-06-05 12:09:55.205	remote: [::1]:9298	interface: /event/selectone	event: visit
+time: 2019-06-05 12:10:04.224	remote: [::1]:9298	interface: /event/create	event: visit
+time: 2019-06-05 12:10:31.003	remote: [::1]:9298	interface: /stock/create	event: visit
+time: 2019-06-05 12:10:42.051	remote: [::1]:9298	interface: /stock/list?page=1&limit=1	event: visit
+time: 2019-06-05 12:59:58.361	event: server is start
+time: 2019-06-05 13:00:30.737	remote: [::1]:12912	interface: /stock/update	event: visit
+time: 2019-06-05 13:00:37.868	remote: [::1]:12912	interface: /stock/create	event: visit
+time: 2019-06-05 13:00:42.489	remote: [::1]:12912	interface: /stock/list?page=1&limit=1	event: visit
+time: 2019-06-05 13:38:19.433	event: server is start
+time: 2019-06-05 13:38:56.885	remote: [::1]:11985	interface: /stock/create	event: visit
+time: 2019-06-05 13:39:11.612	remote: [::1]:11985	interface: /stock/create	event: visit
+time: 2019-06-05 13:58:17.510	event: server is start
+time: 2019-06-05 13:58:24.400	remote: [::1]:4966	interface: /stock/create	event: visit
+time: 2019-06-05 14:03:22.304	event: server is start
+time: 2019-06-05 14:03:25.480	remote: [::1]:6758	interface: /stock/create	event: visit
+time: 2019-06-05 14:04:07.191	event: server is start
+time: 2019-06-05 14:04:08.949	remote: [::1]:6987	interface: /stock/create	event: visit
+time: 2019-06-05 14:05:18.694	event: server is start
+time: 2019-06-05 14:05:21.027	remote: [::1]:7400	interface: /stock/create	event: visit
+time: 2019-06-05 14:05:40.116	event: server is start
+time: 2019-06-05 14:05:45.116	remote: [::1]:7531	interface: /stock/create	event: visit
+time: 2019-06-05 14:06:45.045	event: server is start
+time: 2019-06-05 14:06:48.077	remote: [::1]:7862	interface: /stock/create	event: visit
+time: 2019-06-05 14:07:22.865	event: server is start
+time: 2019-06-05 14:07:25.288	remote: [::1]:8059	interface: /stock/create	event: visit
+time: 2019-06-05 14:12:28.731	event: server is start
+time: 2019-06-05 14:12:31.933	remote: [::1]:9768	interface: /stock/create	event: visit
+time: 2019-06-05 14:12:31.943	remote: [::1]:9768	interface: /stock/create	event: visit
+time: 2019-06-05 14:13:05.423	event: server is start
+time: 2019-06-05 14:13:09.858	remote: [::1]:9971	interface: /stock/create	event: visit
+time: 2019-06-05 14:13:09.866	remote: [::1]:9971	interface: /stock/create	event: visit
+time: 2019-06-05 14:13:42.304	event: server is start
+time: 2019-06-05 14:13:44.528	remote: [::1]:10189	interface: /stock/create	event: visit
+time: 2019-06-05 14:14:47.150	event: server is start
+time: 2019-06-05 14:14:49.191	remote: [::1]:10535	interface: /stock/create	event: visit
+time: 2019-06-05 14:16:21.398	event: server is start
+time: 2019-06-05 14:16:23.471	remote: [::1]:11087	interface: /stock/create	event: visit
+time: 2019-06-05 14:18:13.394	event: server is start
+time: 2019-06-05 14:18:16.871	remote: [::1]:11688	interface: /stock/create	event: visit
+time: 2019-06-05 14:25:42.600	event: server is start
+time: 2019-06-05 14:25:45.275	remote: [::1]:14238	interface: /stock/create	event: visit
+time: 2019-06-05 14:31:31.474	event: server is start
+time: 2019-06-05 14:31:34.126	remote: [::1]:2394	interface: /stock/create	event: visit
+time: 2019-06-05 14:31:54.204	event: server is start
+time: 2019-06-05 14:31:56.869	remote: [::1]:2515	interface: /stock/create	event: visit
+time: 2019-06-05 14:32:40.748	event: server is start
+time: 2019-06-05 14:32:43.722	remote: [::1]:2791	interface: /stock/create	event: visit
+time: 2019-06-05 14:47:44.942	event: server is start
+time: 2019-06-05 14:47:47.231	remote: [::1]:7694	interface: /stock/create	event: visit
+time: 2019-06-05 14:50:10.645	event: server is start
+time: 2019-06-05 14:50:12.679	remote: [::1]:8542	interface: /stock/create	event: visit
+time: 2019-06-05 14:50:12.689	remote: [::1]:8542	interface: /stock/create	event: visit
+time: 2019-06-05 14:56:34.444	event: server is start
+time: 2019-06-05 14:56:36.345	remote: [::1]:10610	interface: /stock/create	event: visit
+time: 2019-06-05 14:59:49.666	event: server is start
+time: 2019-06-05 14:59:51.883	remote: [::1]:11633	interface: /stock/create	event: visit
+time: 2019-06-05 15:01:37.238	event: server is start
+time: 2019-06-05 15:01:47.371	remote: [::1]:12314	interface: /stock/create	event: visit
+time: 2019-06-05 15:12:01.141	event: server is start
+time: 2019-06-05 15:12:05.965	remote: [::1]:1882	interface: /stock/create	event: visit
+time: 2019-06-05 15:12:32.970	event: server is start
+time: 2019-06-05 15:12:48.815	remote: [::1]:2107	interface: /stock/create	event: visit
+time: 2019-06-05 15:16:10.575	event: server is start
+time: 2019-06-05 15:16:13.149	remote: [::1]:3370	interface: /stock/create	event: visit
+time: 2019-06-05 15:21:15.691	event: server is start
+time: 2019-06-05 15:21:18.280	remote: [::1]:5023	interface: /stock/create	event: visit
+time: 2019-06-05 15:30:43.776	event: server is start
+time: 2019-06-05 15:30:47.996	remote: [::1]:8192	interface: /stock/create	event: visit
+time: 2019-06-05 15:32:28.220	event: server is start
+time: 2019-06-05 15:32:31.196	remote: [::1]:8747	interface: /stock/create	event: visit
+time: 2019-06-05 15:33:09.129	remote: [::1]:8747	interface: /stock/create	event: visit
+time: 2019-06-05 15:33:43.251	remote: [::1]:8747	interface: /stock/create	event: visit
+time: 2019-06-05 15:34:09.505	event: server is start
+time: 2019-06-05 15:34:17.718	remote: [::1]:9358	interface: /stock/create	event: visit
+time: 2019-06-05 15:50:03.314	event: server is start
+time: 2019-06-05 15:50:09.779	remote: [::1]:14615	interface: /stock/create	event: visit
+time: 2019-06-05 15:51:41.760	remote: [::1]:1145	interface: /stock/update	event: visit
+time: 2019-06-05 15:52:16.080	remote: [::1]:1145	interface: /stock/update	event: visit
+time: 2019-06-05 15:54:12.201	event: server is start
+time: 2019-06-05 15:54:15.114	remote: [::1]:2058	interface: /stock/update	event: visit
+time: 2019-06-05 15:55:22.135	remote: [::1]:2409	interface: /stock/update	event: visit
+time: 2019-06-05 15:56:15.809	event: server is start
+time: 2019-06-05 15:56:20.275	remote: [::1]:2752	interface: /stock/update	event: visit
+time: 2019-06-05 15:56:55.951	event: server is start
+time: 2019-06-05 15:56:58.660	remote: [::1]:2967	interface: /stock/update	event: visit
+time: 2019-06-05 16:08:33.338	event: server is start
+time: 2019-06-05 16:08:54.986	remote: [::1]:6933	interface: /enduser/create	event: visit
+time: 2019-06-05 16:10:11.050	event: server is start
+time: 2019-06-05 16:10:35.831	remote: [::1]:7473	interface: /enduser/selectone	event: visit
+time: 2019-06-05 16:10:52.343	remote: [::1]:7473	interface: /enduser/update	event: visit
+time: 2019-06-05 16:10:58.584	remote: [::1]:7473	interface: /enduser/update	event: visit
+time: 2019-06-05 16:11:16.787	remote: [::1]:7473	interface: /enduser/delete	event: visit
+time: 2019-06-05 16:12:04.149	remote: [::1]:7473	interface: /enduser/delete	event: visit
+time: 2019-06-05 16:14:51.573	event: server is start
+time: 2019-06-05 16:15:49.379	remote: [::1]:9164	interface: /enduser/delete	event: visit
+time: 2019-06-05 16:16:55.653	event: server is start
+time: 2019-06-05 16:17:31.082	event: server is start
+time: 2019-06-05 16:18:05.979	event: server is start
+time: 2019-06-05 16:18:11.791	remote: [::1]:9959	interface: /enduser/delete	event: visit
+time: 2019-06-05 16:18:42.882	remote: [::1]:9959	interface: /enduser/list?page=1&limit=1	event: visit
+time: 2019-06-05 16:30:17.372	event: server is start
+time: 2019-06-05 16:30:36.613	remote: 127.0.0.1:49308	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:31:16.535	event: server is start
+time: 2019-06-05 16:32:24.313	remote: 127.0.0.1:49531	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:32:58.399	remote: 127.0.0.1:49608	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:33:36.203	remote: 127.0.0.1:49693	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:10.841	remote: 127.0.0.1:49766	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:16.627	remote: 127.0.0.1:49786	interface: /api/enduser/create	event: visit
+time: 2019-06-05 16:34:16.959	remote: 127.0.0.1:49792	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:21.001	remote: 127.0.0.1:49805	interface: /api/enduser/create	event: visit
+time: 2019-06-05 16:34:21.326	remote: 127.0.0.1:49809	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:23.563	remote: 127.0.0.1:49815	interface: /api/enduser/create	event: visit
+time: 2019-06-05 16:34:23.881	remote: 127.0.0.1:49819	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:26.835	remote: 127.0.0.1:49825	interface: /api/enduser/delete	event: visit
+time: 2019-06-05 16:34:27.157	remote: 127.0.0.1:49829	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:29.289	remote: 127.0.0.1:49835	interface: /api/enduser/delete	event: visit
+time: 2019-06-05 16:34:29.608	remote: 127.0.0.1:49839	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:33.328	remote: 127.0.0.1:49848	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:35.197	remote: 127.0.0.1:49859	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:45.082	remote: 127.0.0.1:49887	interface: /api/enduser/update	event: visit
+time: 2019-06-05 16:34:45.315	remote: 127.0.0.1:49890	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:34:50.130	remote: 127.0.0.1:49904	interface: /api/enduser/delete	event: visit
+time: 2019-06-05 16:34:50.450	remote: 127.0.0.1:49908	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:35:27.860	remote: 127.0.0.1:49983	interface: /api/enduser/create	event: visit
+time: 2019-06-05 16:35:28.098	remote: 127.0.0.1:49986	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:35:43.245	remote: 127.0.0.1:50022	interface: /api/enduser/create	event: visit
+time: 2019-06-05 16:35:43.490	remote: 127.0.0.1:50025	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:36:26.071	remote: 127.0.0.1:50118	interface: /api/enduser/update	event: visit
+time: 2019-06-05 16:36:26.299	remote: 127.0.0.1:50121	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:37:02.676	remote: 127.0.0.1:50193	interface: /api/enduser/update	event: visit
+time: 2019-06-05 16:37:02.914	remote: 127.0.0.1:50196	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:41:10.115	remote: 127.0.0.1:50384	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:41:20.766	remote: 127.0.0.1:50389	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:42:23.355	remote: 127.0.0.1:50543	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:45:31.247	remote: 127.0.0.1:50912	interface: /api/enduser/selectone?enduser=stock	event: visit
+time: 2019-06-05 16:45:37.142	remote: 127.0.0.1:50925	interface: /api/enduser/selectone?enduser=stock	event: visit
+time: 2019-06-05 16:46:58.549	remote: 127.0.0.1:51100	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:47:51.654	remote: 127.0.0.1:51211	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 16:48:02.806	remote: 127.0.0.1:51246	interface: /api/enduser/selectone?0=stock	event: visit
+time: 2019-06-05 16:48:11.287	remote: 127.0.0.1:51265	interface: /api/enduser/selectone?0=stock	event: visit
+time: 2019-06-05 16:51:04.419	remote: 127.0.0.1:51605	interface: /api/enduser/selectone?enduser=stock	event: visit
+time: 2019-06-05 16:51:10.377	remote: 127.0.0.1:51617	interface: /api/enduser/selectone?enduser=stock	event: visit
+time: 2019-06-05 16:51:57.523	remote: 127.0.0.1:51717	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 16:52:07.585	remote: 127.0.0.1:51742	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 16:54:14.029	remote: 127.0.0.1:52005	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 16:56:31.885	remote: 127.0.0.1:52280	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 16:57:25.534	remote: 127.0.0.1:52403	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 16:57:31.255	remote: 127.0.0.1:52415	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 16:58:02.587	remote: 127.0.0.1:52486	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:04:18.234	remote: 127.0.0.1:53219	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:04:25.326	remote: 127.0.0.1:53242	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:04:28.326	remote: 127.0.0.1:53252	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:04:30.754	remote: 127.0.0.1:53261	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:04:31.532	remote: 127.0.0.1:53271	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:04:32.613	remote: 127.0.0.1:53277	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:06:35.420	remote: 127.0.0.1:53506	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:06:38.081	remote: 127.0.0.1:53515	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:07:08.749	remote: 127.0.0.1:53600	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:07:39.258	remote: 127.0.0.1:53666	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:07:40.578	remote: 127.0.0.1:53671	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:07:57.096	remote: 127.0.0.1:53717	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:08:18.489	remote: 127.0.0.1:53772	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:08:31.875	remote: 127.0.0.1:53807	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:08:40.209	remote: 127.0.0.1:53828	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:09:28.035	remote: 127.0.0.1:53934	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:09:51.127	remote: 127.0.0.1:53988	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:10:21.463	remote: 127.0.0.1:54054	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:11:47.895	remote: 127.0.0.1:54244	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:12:26.100	remote: 127.0.0.1:54341	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:13:07.253	remote: 127.0.0.1:54458	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:13:33.653	remote: 127.0.0.1:54509	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:13:35.834	remote: 127.0.0.1:54529	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:14:04.991	remote: 127.0.0.1:54589	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:14:42.505	remote: 127.0.0.1:54665	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:14:46.475	remote: 127.0.0.1:54684	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:17:14.444	event: server is start
+time: 2019-06-05 17:17:22.878	remote: 127.0.0.1:58838	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:17:29.703	remote: 127.0.0.1:58863	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:17:44.429	remote: 127.0.0.1:58899	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:17:47.659	remote: 127.0.0.1:58909	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:17:51.982	remote: 127.0.0.1:58918	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:18:03.113	remote: 127.0.0.1:58952	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:18:24.300	remote: 127.0.0.1:58996	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:18:25.815	remote: 127.0.0.1:59001	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:19:20.057	remote: 127.0.0.1:59114	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:20:02.600	remote: 127.0.0.1:59207	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:21:46.737	remote: 127.0.0.1:59427	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:21:46.737	remote: 127.0.0.1:59428	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:21:57.131	remote: 127.0.0.1:59462	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:21:57.134	remote: 127.0.0.1:59463	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:22:13.845	remote: 127.0.0.1:59507	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:23:05.362	remote: 127.0.0.1:59568	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:23:05.362	remote: 127.0.0.1:59567	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:23:14.005	remote: 127.0.0.1:59575	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:23:26.756	remote: 127.0.0.1:59590	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:23:39.489	remote: 127.0.0.1:59602	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:25:54.964	remote: 127.0.0.1:59691	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:25:54.965	remote: 127.0.0.1:59692	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:30:09.381	remote: 127.0.0.1:54965	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:30:09.383	remote: 127.0.0.1:54966	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:30:40.437	remote: 127.0.0.1:54983	interface: /api/stock/list	event: visit
+time: 2019-06-05 17:31:14.921	remote: 127.0.0.1:54983	interface: /api/stock/list	event: visit
+time: 2019-06-05 17:32:10.422	remote: 127.0.0.1:54983	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:35:43.823	remote: 127.0.0.1:55200	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:35:43.825	remote: 127.0.0.1:55201	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:38:40.398	remote: 127.0.0.1:55485	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:38:40.399	remote: 127.0.0.1:55486	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:38:40.708	remote: 127.0.0.1:55490	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:38:42.352	remote: 127.0.0.1:55498	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:38:42.646	remote: 127.0.0.1:55506	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:38:42.648	remote: 127.0.0.1:55507	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:39:03.721	remote: 127.0.0.1:55562	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:39:03.723	remote: 127.0.0.1:55561	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:39:04.049	remote: 127.0.0.1:55566	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:39:06.941	remote: 127.0.0.1:55577	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:39:06.949	remote: 127.0.0.1:55576	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:39:07.245	remote: 127.0.0.1:55586	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:39:23.911	remote: 127.0.0.1:55616	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:39:23.915	remote: 127.0.0.1:55617	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:39:23.915	remote: 127.0.0.1:55618	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:41:11.257	remote: 127.0.0.1:55709	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:41:11.260	remote: 127.0.0.1:55707	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:41:11.555	remote: 127.0.0.1:55715	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:44:35.811	remote: 127.0.0.1:55858	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:44:35.812	remote: 127.0.0.1:55859	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:44:36.105	remote: 127.0.0.1:55861	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:46:07.880	remote: 127.0.0.1:55924	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:46:07.882	remote: 127.0.0.1:55922	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:46:08.177	remote: 127.0.0.1:55926	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:46:33.423	remote: 127.0.0.1:55955	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:46:33.425	remote: 127.0.0.1:55955	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:47:57.568	remote: 127.0.0.1:56076	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:47:57.569	remote: 127.0.0.1:56074	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:47:57.866	remote: 127.0.0.1:56078	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:48:06.977	remote: 127.0.0.1:56091	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:48:06.979	remote: 127.0.0.1:56091	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:48:49.781	remote: 127.0.0.1:56186	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:48:49.784	remote: 127.0.0.1:56186	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:48:50.510	remote: 127.0.0.1:56190	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:48:50.513	remote: 127.0.0.1:56189	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:48:50.812	remote: 127.0.0.1:56194	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:49:06.051	remote: 127.0.0.1:56225	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:49:11.413	remote: 127.0.0.1:56237	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:49:11.424	remote: 127.0.0.1:56235	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:49:11.715	remote: 127.0.0.1:56243	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:49:47.740	remote: 127.0.0.1:56304	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:49:47.744	remote: 127.0.0.1:56302	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:49:48.038	remote: 127.0.0.1:56311	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:53:58.075	remote: 127.0.0.1:53322	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:53:58.076	remote: 127.0.0.1:53321	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:53:58.375	remote: 127.0.0.1:53325	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:55:14.760	remote: 127.0.0.1:53484	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:55:22.220	remote: 127.0.0.1:53496	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:55:22.231	remote: 127.0.0.1:53498	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:55:22.521	remote: 127.0.0.1:53504	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:55:34.816	remote: 127.0.0.1:53532	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:55:34.818	remote: 127.0.0.1:53533	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:55:35.119	remote: 127.0.0.1:53539	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:56:54.020	remote: 127.0.0.1:53718	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:56:54.021	remote: 127.0.0.1:53716	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:56:54.318	remote: 127.0.0.1:53721	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:57:01.069	remote: 127.0.0.1:53743	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:57:01.070	remote: 127.0.0.1:53744	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:57:01.073	remote: 127.0.0.1:53745	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:57:32.059	remote: 127.0.0.1:53822	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:58:08.759	remote: 127.0.0.1:53897	interface: /api/stock/create	event: visit
+time: 2019-06-05 17:58:08.930	remote: 127.0.0.1:53900	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 17:58:41.498	remote: 127.0.0.1:53963	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 17:58:41.502	remote: 127.0.0.1:53961	interface: /api/stock/list?page=1&limit=200	event: visit
+time: 2019-06-05 17:58:41.791	remote: 127.0.0.1:53965	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:00:54.630	remote: 127.0.0.1:54073	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:00:54.631	remote: 127.0.0.1:54072	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:00:54.924	remote: 127.0.0.1:54075	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:01:07.065	remote: 127.0.0.1:54091	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:01:07.068	remote: 127.0.0.1:54088	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:01:07.364	remote: 127.0.0.1:54093	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:01:12.028	remote: 127.0.0.1:54104	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:01:12.027	remote: 127.0.0.1:54103	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:01:12.028	remote: 127.0.0.1:54105	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:01:30.812	remote: 127.0.0.1:54138	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:01:30.812	remote: 127.0.0.1:54137	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:01:31.113	remote: 127.0.0.1:54142	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:01:58.107	remote: 127.0.0.1:54211	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:01:58.108	remote: 127.0.0.1:54213	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:01:58.409	remote: 127.0.0.1:54216	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:02:01.478	remote: 127.0.0.1:54228	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:02:01.478	remote: 127.0.0.1:54229	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:02:01.480	remote: 127.0.0.1:54230	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:03:14.478	remote: 127.0.0.1:54304	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:03:14.480	remote: 127.0.0.1:54306	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:03:14.776	remote: 127.0.0.1:54309	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:04:24.171	event: server is start
+time: 2019-06-05 18:04:41.748	remote: 127.0.0.1:59103	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:04:41.749	remote: 127.0.0.1:59101	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:04:41.750	remote: 127.0.0.1:59102	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:04:55.302	remote: 127.0.0.1:59142	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:04:55.303	remote: 127.0.0.1:59143	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:04:55.308	remote: 127.0.0.1:59144	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:05:42.557	remote: 127.0.0.1:59257	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:05:42.559	remote: 127.0.0.1:59255	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:05:42.856	remote: 127.0.0.1:59259	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:05:46.284	remote: 127.0.0.1:59274	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:05:46.285	remote: 127.0.0.1:59273	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:05:46.289	remote: 127.0.0.1:59275	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:06:23.503	remote: 127.0.0.1:59322	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:06:23.504	remote: 127.0.0.1:59321	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:06:23.507	remote: 127.0.0.1:59320	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:06:33.878	remote: 127.0.0.1:59349	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:06:33.878	remote: 127.0.0.1:59347	interface: /api/stock/list?page=1&limit=5	event: visit
+time: 2019-06-05 18:06:34.180	remote: 127.0.0.1:59355	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:06:42.656	remote: 127.0.0.1:59368	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:06:42.657	remote: 127.0.0.1:59370	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:06:42.956	remote: 127.0.0.1:59372	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:07:49.005	remote: 127.0.0.1:59433	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:07:49.006	remote: 127.0.0.1:59435	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:07:49.007	remote: 127.0.0.1:59434	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:09:57.152	event: server is start
+time: 2019-06-05 18:11:14.868	remote: 127.0.0.1:59875	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:11:14.867	remote: 127.0.0.1:59877	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:11:14.867	remote: 127.0.0.1:59876	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:11:19.856	remote: 127.0.0.1:59888	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:11:42.701	remote: 127.0.0.1:59935	interface: /api/enduser/create	event: visit
+time: 2019-06-05 18:11:42.939	remote: 127.0.0.1:59938	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:11:53.485	remote: 127.0.0.1:59964	interface: /api/enduser/update	event: visit
+time: 2019-06-05 18:11:53.718	remote: 127.0.0.1:59969	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:12:02.349	remote: 127.0.0.1:59987	interface: /api/enduser/create	event: visit
+time: 2019-06-05 18:12:02.670	remote: 127.0.0.1:59993	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:12:09.050	remote: 127.0.0.1:60009	interface: /api/enduser/update	event: visit
+time: 2019-06-05 18:12:09.371	remote: 127.0.0.1:60013	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:12:13.087	remote: 127.0.0.1:60024	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:12:13.393	remote: 127.0.0.1:60029	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:12:13.396	remote: 127.0.0.1:60030	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:12:38.399	remote: 127.0.0.1:60082	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:12:38.402	remote: 127.0.0.1:60080	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:12:38.703	remote: 127.0.0.1:60084	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:13:28.270	remote: 127.0.0.1:60211	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:13:28.271	remote: 127.0.0.1:60212	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:13:28.273	remote: 127.0.0.1:60213	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:14:07.581	remote: 127.0.0.1:60303	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:14:10.324	remote: 127.0.0.1:60311	interface: /api/enduser/create	event: visit
+time: 2019-06-05 18:14:10.645	remote: 127.0.0.1:60315	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:14:19.292	remote: 127.0.0.1:60334	interface: /api/enduser/update	event: visit
+time: 2019-06-05 18:14:19.616	remote: 127.0.0.1:60341	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:14:20.906	remote: 127.0.0.1:60344	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:14:21.210	remote: 127.0.0.1:60350	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:14:21.212	remote: 127.0.0.1:60351	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:14:24.985	remote: 127.0.0.1:60380	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:14:24.990	remote: 127.0.0.1:60381	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:14:24.992	remote: 127.0.0.1:60383	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:14:42.592	remote: 127.0.0.1:60429	interface: /api/stock/create	event: visit
+time: 2019-06-05 18:14:42.749	remote: 127.0.0.1:60432	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:16:11.102	event: server is start
+time: 2019-06-05 18:16:46.023	event: server is start
+time: 2019-06-05 18:17:03.870	remote: 127.0.0.1:60767	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:17:03.872	remote: 127.0.0.1:60766	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:17:04.174	remote: 127.0.0.1:60773	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:17:33.621	remote: 127.0.0.1:60844	interface: /api/stock/create	event: visit
+time: 2019-06-05 18:17:33.778	remote: 127.0.0.1:60847	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:17:57.206	remote: 127.0.0.1:60905	interface: /api/stock/list?page=1&limit=100	event: visit
+time: 2019-06-05 18:17:57.206	remote: 127.0.0.1:60906	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:17:57.515	remote: 127.0.0.1:60909	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:18:17.748	remote: 127.0.0.1:60956	interface: /api/stock/list?page=2&limit=100	event: visit
+time: 2019-06-05 18:18:21.937	remote: 127.0.0.1:60966	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:18:26.352	remote: 127.0.0.1:60984	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:18:26.354	remote: 127.0.0.1:60982	interface: /api/stock/list?page=1&limit=100	event: visit
+time: 2019-06-05 18:18:26.356	remote: 127.0.0.1:60985	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:18:31.458	remote: 127.0.0.1:60994	interface: /api/stock/list?page=2&limit=100	event: visit
+time: 2019-06-05 18:18:40.199	remote: 127.0.0.1:61019	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:18:40.204	remote: 127.0.0.1:61020	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:18:40.504	remote: 127.0.0.1:61023	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:18:46.462	remote: 127.0.0.1:61059	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:18:46.463	remote: 127.0.0.1:61061	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:18:46.463	remote: 127.0.0.1:61060	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:18:49.590	remote: 127.0.0.1:61071	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:19:24.799	remote: 127.0.0.1:61165	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:19:24.801	remote: 127.0.0.1:61163	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:19:24.801	remote: 127.0.0.1:61164	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:19:42.233	remote: 127.0.0.1:61213	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:19:42.236	remote: 127.0.0.1:61211	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:19:42.537	remote: 127.0.0.1:61216	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:19:48.359	remote: 127.0.0.1:61254	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:19:48.360	remote: 127.0.0.1:61253	interface: /api/stock/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:19:48.364	remote: 127.0.0.1:61255	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:20:02.543	remote: 127.0.0.1:61294	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:20:02.547	remote: 127.0.0.1:61292	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:20:02.838	remote: 127.0.0.1:61296	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:20:34.077	remote: 127.0.0.1:61382	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:20:34.077	remote: 127.0.0.1:61383	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:20:34.079	remote: 127.0.0.1:61384	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:22:32.171	remote: 127.0.0.1:61640	interface: /api/enduser/list?page=1&limit=20	event: visit
+time: 2019-06-05 18:22:37.684	remote: 127.0.0.1:61653	interface: /api/stock/list?page=1&limit=10	event: visit
+time: 2019-06-05 18:22:37.988	remote: 127.0.0.1:61657	interface: /api/enduser/selectone	event: visit
+time: 2019-06-05 18:22:37.991	remote: 127.0.0.1:61658	interface: /api/enduser/selectone	event: visit

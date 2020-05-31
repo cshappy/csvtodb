@@ -1,0 +1,6 @@
+time: 2019-10-09 08:36:52.890	event: server is start
+time: 2019-10-09 08:38:20.156	remote: [::1]:54144	interface: /api/history/gethistorian?tagname=DC.C2.D2.TAG1;DC.C1.D1.tag03;DC.C1.D1.Tag02&end=1569557126975&start=1569557226975&ip=10.1.1.30&target=echart	event: visit
+time: 2019-10-09 17:13:47.577	event: server is start
+time: 2019-10-09 17:29:00.616	event: server is start
+time: 2019-10-09 17:58:47.380	event: server is start
+time: 2019-10-09 18:03:26.508	event: server is start

@@ -1,0 +1,135 @@
+2019-10-10 14:26:13.495 [ERRO] runtime error: slice bounds out of range, "POST http localhost:8090 /api/csvtosqlite/csvtosqlite HTTP/1.1" 12.511, [::1], "", "PostmanRuntime/7.17.1"
+1. runtime error: slice bounds out of range
+   1).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func2
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:106
+   2).  github.com/gogf/gf/util/gutil.TryCatch.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:60
+   3).  github.com/gogf/gf/net/ghttp.niceCallFunc.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:50
+   4).  core/app/service/csvtosqlite.Csvtosqlite
+    	C:/core/app/service/csvtosqlite/Csvtosqlite.go:65
+   5).  core/app/api/csvtosqlite.CsvtosqliteController.Csvtosqlite
+    	C:/core/app/api/csvtosqlite/Csvtosqlite.go:21
+   6).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1.5
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:79
+   7).  github.com/gogf/gf/net/ghttp.niceCallFunc
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:54
+   8).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:78
+   9).  github.com/gogf/gf/util/gutil.TryCatch
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:69
+   10). github.com/gogf/gf/net/ghttp.(*Middleware).Next
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:45
+   11). github.com/gogf/gf/net/ghttp.(*Server).handleRequest
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:127
+   12). github.com/gogf/gf/net/ghttp.(*Server).defaultHttpHandle
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:36
+
+2019-10-10 14:37:26.494 [ERRO] runtime error: slice bounds out of range, "POST http localhost:8090 /api/csvtosqlite/csvtosqlite HTTP/1.1" 14.018, [::1], "", "PostmanRuntime/7.17.1"
+1. runtime error: slice bounds out of range
+   1).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func2
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:106
+   2).  github.com/gogf/gf/util/gutil.TryCatch.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:60
+   3).  github.com/gogf/gf/net/ghttp.niceCallFunc.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:50
+   4).  core/app/service/csvtosqlite.Csvtosqlite
+    	C:/core/app/service/csvtosqlite/Csvtosqlite.go:56
+   5).  core/app/api/csvtosqlite.CsvtosqliteController.Csvtosqlite
+    	C:/core/app/api/csvtosqlite/Csvtosqlite.go:21
+   6).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1.5
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:79
+   7).  github.com/gogf/gf/net/ghttp.niceCallFunc
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:54
+   8).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:78
+   9).  github.com/gogf/gf/util/gutil.TryCatch
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:69
+   10). github.com/gogf/gf/net/ghttp.(*Middleware).Next
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:45
+   11). github.com/gogf/gf/net/ghttp.(*Server).handleRequest
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:127
+   12). github.com/gogf/gf/net/ghttp.(*Server).defaultHttpHandle
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:36
+
+2019-10-10 14:51:14.497 [ERRO] interface conversion: interface {} is nil, not int, "POST http localhost:8090 /api/csvtosqlite/csvtosqlite HTTP/1.1" 5.997, [::1], "", "PostmanRuntime/7.17.1"
+1. interface conversion: interface {} is nil, not int
+   1).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func2
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:106
+   2).  github.com/gogf/gf/util/gutil.TryCatch.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:60
+   3).  github.com/gogf/gf/net/ghttp.niceCallFunc.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:50
+   4).  core/app/service/csvtosqlite.Csvtosqlite
+    	C:/core/app/service/csvtosqlite/Csvtosqlite.go:88
+   5).  core/app/api/csvtosqlite.CsvtosqliteController.Csvtosqlite
+    	C:/core/app/api/csvtosqlite/Csvtosqlite.go:21
+   6).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1.5
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:79
+   7).  github.com/gogf/gf/net/ghttp.niceCallFunc
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:54
+   8).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:78
+   9).  github.com/gogf/gf/util/gutil.TryCatch
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:69
+   10). github.com/gogf/gf/net/ghttp.(*Middleware).Next
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:45
+   11). github.com/gogf/gf/net/ghttp.(*Server).handleRequest
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:127
+   12). github.com/gogf/gf/net/ghttp.(*Server).defaultHttpHandle
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:36
+
+2019-10-10 14:53:42.373 [ERRO] interface conversion: interface {} is nil, not int, "POST http localhost:8090 /api/csvtosqlite/csvtosqlite HTTP/1.1" 6.014, [::1], "", "PostmanRuntime/7.17.1"
+1. interface conversion: interface {} is nil, not int
+   1).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func2
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:106
+   2).  github.com/gogf/gf/util/gutil.TryCatch.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:60
+   3).  github.com/gogf/gf/net/ghttp.niceCallFunc.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:50
+   4).  core/app/service/csvtosqlite.Csvtosqlite
+    	C:/core/app/service/csvtosqlite/Csvtosqlite.go:88
+   5).  core/app/api/csvtosqlite.CsvtosqliteController.Csvtosqlite
+    	C:/core/app/api/csvtosqlite/Csvtosqlite.go:21
+   6).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1.5
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:79
+   7).  github.com/gogf/gf/net/ghttp.niceCallFunc
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:54
+   8).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:78
+   9).  github.com/gogf/gf/util/gutil.TryCatch
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:69
+   10). github.com/gogf/gf/net/ghttp.(*Middleware).Next
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:45
+   11). github.com/gogf/gf/net/ghttp.(*Server).handleRequest
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:127
+   12). github.com/gogf/gf/net/ghttp.(*Server).defaultHttpHandle
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:36
+
+2019-10-10 15:13:36.285 [ERRO] interface conversion: interface {} is nil, not int, "POST http localhost:8090 /api/csvtosqlite/csvtosqlite HTTP/1.1" 3.994, [::1], "", "PostmanRuntime/7.17.1"
+1. interface conversion: interface {} is nil, not int
+   1).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func2
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:106
+   2).  github.com/gogf/gf/util/gutil.TryCatch.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:60
+   3).  github.com/gogf/gf/net/ghttp.niceCallFunc.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:50
+   4).  core/app/service/csvtosqlite.Csvtosqlite
+    	C:/core/app/service/csvtosqlite/Csvtosqlite.go:87
+   5).  core/app/api/csvtosqlite.CsvtosqliteController.Csvtosqlite
+    	C:/core/app/api/csvtosqlite/Csvtosqlite.go:21
+   6).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1.5
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:79
+   7).  github.com/gogf/gf/net/ghttp.niceCallFunc
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_func.go:54
+   8).  github.com/gogf/gf/net/ghttp.(*Middleware).Next.func1
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:78
+   9).  github.com/gogf/gf/util/gutil.TryCatch
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/util/gutil/gutil.go:69
+   10). github.com/gogf/gf/net/ghttp.(*Middleware).Next
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_request_middleware.go:45
+   11). github.com/gogf/gf/net/ghttp.(*Server).handleRequest
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:127
+   12). github.com/gogf/gf/net/ghttp.(*Server).defaultHttpHandle
+    	C:/Users/m1894/go/pkg/mod/github.com/gogf/gf@v1.9.7/net/ghttp/ghttp_server_handler.go:36
+

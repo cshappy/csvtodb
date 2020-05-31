@@ -1,0 +1,23 @@
+time: 2019-06-04 17:04:55.954	event: server is start
+time: 2019-06-04 17:17:19.837	event: server is start
+time: 2019-06-04 17:18:04.462	event: server is start
+time: 2019-06-04 17:18:35.160	event: server is start
+time: 2019-06-04 17:19:10.834	event: server is start
+time: 2019-06-04 17:25:24.554	event: server is start
+time: 2019-06-04 17:28:00.209	event: server is start
+time: 2019-06-04 17:29:45.812	event: server is start
+time: 2019-06-04 17:30:25.763	event: server is start
+time: 2019-06-04 17:38:01.766	event: server is start
+time: 2019-06-04 17:43:24.891	event: server is start
+time: 2019-06-04 17:47:22.477	event: server is start
+time: 2019-06-04 17:48:10.495	event: server is start
+time: 2019-06-04 17:51:52.838	event: server is start
+time: 2019-06-04 17:54:39.107	event: server is start
+time: 2019-06-04 17:57:48.626	remote: [::1]:2036	interface: /tagPoint/create	event: visit
+time: 2019-06-04 17:58:02.404	remote: [::1]:2036	interface: /tagPoint/create	event: visit
+time: 2019-06-04 17:59:44.096	event: server is start
+time: 2019-06-04 17:59:47.300	remote: [::1]:2531	interface: /tagPoint/create	event: visit
+time: 2019-06-04 18:00:42.684	event: server is start
+time: 2019-06-04 18:00:45.298	remote: [::1]:2795	interface: /tagPoint/create	event: visit
+time: 2019-06-04 20:05:14.540	event: server is start
+time: 2019-06-04 20:05:54.770	event: server is start

@@ -1,0 +1,46 @@
+time: 2019-05-29 15:24:39.142	event: server is start
+time: 2019-05-29 15:25:20.241	remote: [::1]:50430	interface: /tagPoint/create	event: visit
+time: 2019-05-29 15:26:18.471	remote: [::1]:50430	interface: /tagPoint/queryvalue	event: visit
+time: 2019-05-29 15:31:00.860	event: server is start
+time: 2019-05-29 15:31:22.742	remote: [::1]:52419	interface: /tagPoint/queryvalue?id=6539070458359185409	event: visit
+time: 2019-05-29 15:53:39.227	remote: [::1]:59769	interface: /role/create	event: visit
+time: 2019-05-29 16:03:26.222	event: server is start
+time: 2019-05-29 16:03:46.953	remote: [::1]:63012	interface: /tagPoint/create	event: visit
+time: 2019-05-29 16:03:51.330	remote: [::1]:63012	interface: /tagPoint/create	event: visit
+time: 2019-05-29 16:05:35.081	event: server is start
+time: 2019-05-29 16:05:39.150	remote: [::1]:63583	interface: /tagPoint/create	event: visit
+time: 2019-05-29 16:05:43.152	remote: [::1]:63583	interface: /tagPoint/create	event: visit
+time: 2019-05-29 16:28:20.535	event: server is start
+time: 2019-05-29 16:28:30.950	remote: [::1]:54644	interface: /tagPoint/create	event: visit
+time: 2019-05-29 16:35:10.771	event: server is start
+time: 2019-05-29 16:36:30.662	event: server is start
+time: 2019-05-29 16:36:36.253	remote: [::1]:57367	interface: /tagPoint/create	event: visit
+time: 2019-05-29 16:44:11.878	remote: [::1]:59915	interface: /tagPoint/valuequery	event: visit
+time: 2019-05-29 16:44:25.356	remote: [::1]:59915	interface: /tagPoint/valuequery?id=6539419042405416961	event: visit
+time: 2019-05-29 16:44:47.454	event: server is start
+time: 2019-05-29 16:44:50.329	remote: [::1]:60109	interface: /tagPoint/valuequery?id=6539419042405416961	event: visit
+time: 2019-05-29 16:45:50.458	remote: [::1]:60439	interface: /tagPoint/valuequery?id=6539419042405416961	event: visit
+time: 2019-05-29 16:46:10.564	remote: [::1]:60439	interface: /tagPoint/valuequery?id=6539419042405416961	event: visit
+time: 2019-05-29 16:47:11.174	event: server is start
+time: 2019-05-29 16:47:13.457	remote: [::1]:60881	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 16:48:53.714	event: server is start
+time: 2019-05-29 16:48:56.996	remote: [::1]:61463	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:01:46.958	event: server is start
+time: 2019-05-29 17:01:50.951	remote: [::1]:65520	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:02:35.892	event: server is start
+time: 2019-05-29 17:02:38.537	remote: [::1]:49422	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:03:12.679	event: server is start
+time: 2019-05-29 17:03:15.520	remote: [::1]:49642	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:04:45.305	event: server is start
+time: 2019-05-29 17:04:48.981	remote: [::1]:50220	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:07:06.140	event: server is start
+time: 2019-05-29 17:07:09.327	remote: [::1]:51008	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:09:30.573	event: server is start
+time: 2019-05-29 17:09:40.091	remote: [::1]:51824	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:24:02.591	event: server is start
+time: 2019-05-29 17:24:07.525	remote: [::1]:56397	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:25:31.571	remote: [::1]:56834	interface: /tagPoint/queryvalue?id=6539419042405416961	event: visit
+time: 2019-05-29 17:29:55.062	event: server is start
+time: 2019-05-29 17:29:56.804	remote: [::1]:58326	interface: /tagPoint/queryvalue	event: visit
+time: 2019-05-29 17:31:43.986	event: server is start
+time: 2019-05-29 17:31:50.478	remote: [::1]:58904	interface: /tagPoint/queryvalue	event: visit
